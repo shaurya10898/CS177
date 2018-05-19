@@ -9,6 +9,7 @@ This is a graphical simulator for a new magnetic rail orbital vehicle launching 
 6. Launch Environment
 7. Launch Animation
 8. Extra functions: Setting the name of your launch vehicle, blinking lights.
-##Disclaimer
+
+# Disclaimer
 
 This software code and other works are my property and are a representation of the projects that I completed. This repository is for historical and educational purposes only. This software and its dependencies are distributed free of charge.
